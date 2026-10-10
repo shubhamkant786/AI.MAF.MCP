@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AI.MAF.MCP.Agent.HostedMCP/AI.MAF.MCP.Agent.HostedMCP.csproj" Id="fb9ee7b9-91d0-4aad-a8bf-29d5d9b6f275" />
+  <Project Path="AI.MAF.MCP.Tools.Client/AI.MAF.MCP.Tools.Client.csproj" Id="8adb95c1-50bd-4155-a1da-d3e20d833fee" />
+  <Project Path="AI.MAF.MCP.Tools.ZeroMcp/AI.MAF.MCP.Tools.ZeroMcp.csproj" Id="14e69837-a4e0-458e-a9c1-6297023a635f" />
+  <Project Path="AI.MAF.MCP.Tools/AI.MAF.MCP.Tools.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@AI.MAF.MCP.Agent.HostedMCP_HostAddress = http://localhost:5214
+
+GET {{AI.MAF.MCP.Agent.HostedMCP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

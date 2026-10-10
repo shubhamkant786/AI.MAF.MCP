@@ -1,0 +1,6 @@
+@AI.MAF.MCP.Tools.ZeroMcp_HostAddress = http://localhost:5244
+
+GET {{AI.MAF.MCP.Tools.ZeroMcp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
